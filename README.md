@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sain-orshikh
 - 👀 I’m interested in c++, python
-- 🌱 I’m currently learning raylib, pygame and django
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: sainorshikh1121@gmail.com
 - 😄 Pronouns: ...
