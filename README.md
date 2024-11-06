@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Sain-orshikh
-- 👀 I’m interested in c++, python
-- 🌱 I’m currently learning react
+- 👋 Hi, I’m Sain-orshikh
+- 👀 I’m interested in react, python
+- 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: sainorshikh1121@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I
 
 <!---
 Sain-orshikh/Sain-orshikh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
