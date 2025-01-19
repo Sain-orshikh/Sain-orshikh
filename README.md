@@ -1,4 +1,4 @@
-<h1>Hello, 👋</h1>
+<h1>Hello, visitor 👋</h1>
 <p>Student at Mongol Aspiration International School</p>
 <p><a><img src="https://shorturl.at/SLzUz"/></a></p>
 <p>🎯Aspiring to be a cool full-stack developer</p>
