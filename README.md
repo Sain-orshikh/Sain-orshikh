@@ -1,5 +1,6 @@
-<h1>Hi 👋, I'm a passionate self-taught developer</h1>
+<h1>Hello 👋</h1>
 <p>Student at Mongol Aspiration International School</p>
+<p>Aspiring full-stack developer</p>
 <p><a><img src="https://shorturl.at/SLzUz"/></a></p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
