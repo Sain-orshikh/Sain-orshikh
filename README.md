@@ -1,6 +1,6 @@
 <h1>Hello, visitor 👋</h1>
 <p>Student at Mongol Aspiration International School</p>
-<p><a><img src="https://shorturl.at/SLzUz"/></a></p>
+<p><a><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f664f564-f28e-4db8-81a1-3d32fdb803d9/d9ysc63-47bfbb2f-ec9b-432b-8255-65a01488479a.png/v1/fill/w_1024,h_576,q_80,strp/pixel_art_of_the_starry_night_from_van_gogh_by_bidulechat_d9ysc63-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvZjY2NGY1NjQtZjI4ZS00ZGI4LTgxYTEtM2QzMmZkYjgwM2Q5XC9kOXlzYzYzLTQ3YmZiYjJmLWVjOWItNDMyYi04MjU1LTY1YTAxNDg4NDc5YS5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.WfJyIBrAPwZLaHovBcWBbuWnnFQIjhBrObOp7mljtVA"/></a></p>
 <p>🎯Aspiring to be a cool full-stack developer</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
