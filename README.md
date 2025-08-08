@@ -39,6 +39,6 @@
 <p align="left">
 <a href="https://fb.com/sainorshikh.nyamayar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sainorshikh.nyamayar" height="30" width="40" /></a>
 <a href="https://instagram.com/sainorshikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sainorshikh" height="30" width="40" /></a>
-<a href="https://discord.gg/sainorshikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sainorshikh" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/779665822271537162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sainorshikh" height="35" width="45" /></a>
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sain-orshikh&" alt="sain-orshikh" /></p>
