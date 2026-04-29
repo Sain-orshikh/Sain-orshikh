@@ -1,6 +1,6 @@
 <h1>Hello, visitor 👋</h1>
 <p>Student at Mongol Aspiration International School</p>
-<p><a><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f664f564-f28e-4db8-81a1-3d32fdb803d9/d9ysc63-47bfbb2f-ec9b-432b-8255-65a01488479a.png/v1/fill/w_1024,h_576,q_80,strp/pixel_[...]"/></a></p>
+<p><a><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f664f564-f28e-4db8-81a1-3d32fdb803d9/d9ysc63-47bfbb2f-ec9b-432b-8255-65a01488479a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9mNjY0ZjU2NC1mMjhlLTRkYjgtODFhMS0zZDMyZmRiODAzZDkvZDl5c2M2My00N2JmYmIyZi1lYzliLTQzMmItODI1NS02NWEwMTQ4ODQ3OWEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.eJ-miwtc6K37QIJpor-QKItd7nbKkEffHPHn0lFWn5w"/></a></p>
 <p>🎯 Aspiring to be a cool full-stack developer</p>
 
 <h2>🚀 Languages and Tools I Use</h2>
